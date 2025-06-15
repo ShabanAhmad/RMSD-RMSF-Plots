@@ -1,6 +1,6 @@
 # RMSD-RMSF-Plots
 
-This code can be used to plot the figures for RMSD, RMSF and MMGBSA with detailed view and colours to have a proper explanations. 
+This code can be used to plot the figures for RMSD, RMSF and MMGBSA with detailed view and colours to have a proper explanation. 
 
 
 ---
@@ -37,9 +37,12 @@ We welcome contributions from the community. Please open issues or submit pull r
 For questions or collaboration inquiries, please contact:
 
 **Author**: *Dr Shaban Ahmad1,2*
+
 **Email**: *Shaban@sund.ku.dk*
-**Institution**: *\
+
+**Institutions**: *\
 1 Department of Computer Science, Jamia Millia Islamia, New Delhi-110025, India.
+
 2 Preclinical Disease Biology Section, Department of Veterinary and Animal Sciences, Faculty of Health and Medical Sciences, University of Copenhagen, Frederiksberg, Denmark.*
 
 ---
