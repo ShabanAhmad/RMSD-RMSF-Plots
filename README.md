@@ -8,7 +8,7 @@ This code can be used to plot the figures for RMSD, RMSF and MMGBSA with detaile
 ## 📂 Repository Structure
 
 ```RMSD-RMSF-Plots/
-├── notebooks/                   # Enterobacteriaceae_Code.ipynb, Code with outputs (CNN-LSTM-XAI)
+├── notebooks/                   # RMSD and RMSF.ipynb, Code with outputs 
 ├── README.md                    # README.md, Project documentation
 └── LICENSE                      # LICENSE.md, License file
 ```
@@ -43,6 +43,6 @@ For questions or collaboration inquiries, please contact:
 **Institutions**: *\
 1 Department of Computer Science, Jamia Millia Islamia, New Delhi-110025, India.
 
-2 Preclinical Disease Biology Section, Department of Veterinary and Animal Sciences, Faculty of Health and Medical Sciences, University of Copenhagen, Frederiksberg, Denmark.*
+2 Biomedicine Section, Department of Veterinary and Animal Sciences, Faculty of Health and Medical Sciences, University of Copenhagen, Frederiksberg, Denmark.*
 
 ---
